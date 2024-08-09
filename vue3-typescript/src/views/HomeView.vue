@@ -1,8 +1,10 @@
 <script setup lang="ts">
+import RefComponent from '@/components/RefComponent.vue'
 </script>
+
 
 <template>
   <main>
-    HOME
+    <RefComponent />
   </main>
 </template>
