@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import type { Ref } from 'vue'
-const count = ref<number>(0)
-const count2 : Ref<number> = ref(0)
+const count = ref<number>(0) // ジェネリクス
+const count2 : Ref<number> = ref(0) // Ref型をimportして使用
 
 </script>
 

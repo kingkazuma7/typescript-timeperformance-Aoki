@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import ReactiveComponent from '@/components/ReactiveComponent.vue';
 import RefComponent from '@/components/RefComponent.vue'
 </script>
 
@@ -6,5 +7,6 @@ import RefComponent from '@/components/RefComponent.vue'
 <template>
   <main>
     <RefComponent />
+    <ReactiveComponent />
   </main>
 </template>
