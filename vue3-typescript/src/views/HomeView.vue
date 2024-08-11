@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import EventComponent from '@/components/EventComponent.vue';
 import ReactiveComponent from '@/components/ReactiveComponent.vue';
 import RefComponent from '@/components/RefComponent.vue'
 </script>
@@ -6,7 +7,8 @@ import RefComponent from '@/components/RefComponent.vue'
 
 <template>
   <main>
-    <RefComponent />
-    <ReactiveComponent />
+    <!-- <RefComponent /> -->
+    <!-- <ReactiveComponent /> -->
+    <EventComponent />
   </main>
 </template>
