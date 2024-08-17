@@ -12,8 +12,8 @@ const propTypeTest = [
   { id: 2, name: '商品2' }
 ]
 
-const emitTest = (message: string): void => {
-  console.log(message);
+const emitTest = (message: string, age: number): void => {
+  console.log(message, age);
 }
 
 </script>
