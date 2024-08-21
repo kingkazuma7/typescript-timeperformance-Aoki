@@ -1,0 +1,1 @@
+{"version":3,"file":"genericsAppend.js","sourceRoot":"","sources":["../src/genericsAppend.ts"],"names":[],"mappings":"AAKA,MAAM,QAAQ,GAAuB;IACnC,MAAM,EAAE,MAAM;CACf,CAAA;AACD,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,MAAM,CAAC,CAAC;AAO7B,MAAM,QAAQ,GAAe;IAC3B,MAAM,EAAE,OAAO;CAChB,CAAA;AACD,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,MAAM,CAAC,CAAC"}
